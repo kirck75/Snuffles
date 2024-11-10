@@ -1,5 +1,0 @@
-{
-  "name": "Snuffless",
-  "symbol": "SNFL",
-  "image": "https://ibb.co/GpKG5m6"
-}
