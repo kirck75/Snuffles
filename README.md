@@ -1,5 +1,6 @@
 # Snuffles
 
-![alt text](https://www.youtube.com/@snufflesmusic)
+![alt text](https://github.com/kirck75/Snuffles/blob/main/pic.jpg)
+
 
 
